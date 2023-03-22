@@ -18,4 +18,4 @@ jobs:
         server: www.healthmedika.id
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /dev2/
+        server-dir: /
